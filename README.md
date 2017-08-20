@@ -1,0 +1,6 @@
+#Git is a free softward
+#Git is good
+#create a new branch
+#quick & simple
+#branch
+#dicover a bug
